@@ -85,7 +85,3 @@ src/coverage-reports/*
 
 #security reports
 reports
-/envs/dev_local.env
-
-pip.conf
-caiosapi-caios-artifactory-user.json
